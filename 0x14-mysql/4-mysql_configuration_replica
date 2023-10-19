@@ -105,4 +105,4 @@ max_binlog_size   = 100M
 server-id               = 2
 relay-log               = /var/log/mysql/mysql-relay-bin.log
 log_bin                 = /var/log/mysql/mysql-bin.log
-binlog_do_db            = tyrell_cor
+binlog_do_db            = tyrell_corp
